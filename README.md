@@ -11,4 +11,8 @@ All you need for MS Azure Databricks Data Engineer Associate Certification DP-75
 ## Recommended Resources
 - [Pavel Krasouski's Post](https://www.linkedin.com/posts/pavelkrasouski_azuredatabricks-dp750-dataengineering-share-7438146980729634816-swCu/)
 
-
+## Skills at a glance
+- Set up and configure an Azure Databricks environment (15–20%)
+- Secure and govern Unity Catalog objects (15–20%)
+- Prepare and process data (30–35%)
+- Deploy and maintain data pipelines and workloads (30–35%)
